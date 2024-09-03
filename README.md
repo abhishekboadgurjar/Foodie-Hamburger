@@ -21,7 +21,6 @@ The **Foodie Hamburger Website** is a web application designed to showcase diffe
 - **JavaScript**: Manages the interactive elements, including the hamburger menu functionality.
 
 
-
 ## Installation
 
 To get started with the project, follow these steps:
