@@ -27,7 +27,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekgurjar-in/Foodie-Hamburger.git
+    git clone https://github.com/abhishekboadgurjar/Foodie-Hamburger.git
     ```
 
 2. **Open the project directory**:
@@ -48,7 +48,7 @@ To get started with the project, follow these steps:
 
 
 ## Live Demo
-You can check out the live demo of the Foodie Hamburger Website project [here](https://abhishekgurjar-in.github.io/Foodie-Hamburger/).
+You can check out the live demo of the Foodie Hamburger Website project [here](https://abhishekboadgurjar.github.io/Foodie-Hamburger/).
 
 
 ## Screenshots
@@ -68,5 +68,5 @@ This project was developed as part of my continuous learning journey in web deve
 ## Author
 
 - **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekgurjar-in)
+  - [GitHub Profile](https://github.com/abhishekboadgurjar)
 
